@@ -1,0 +1,2 @@
+# tienda-trayectoria
+etapa practica 
